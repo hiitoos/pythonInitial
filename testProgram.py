@@ -10,3 +10,4 @@ c = input("Introduce un numero: ")
 print(c)
 cInt=int(c)+b #Pasamos a entero la variable c
 print(cInt, "c+b") 
+print(10/5) #Dividir crear floats
