@@ -1,4 +1,3 @@
-print("Hola") #texto
 print(3) #numero
 print(3+3, "Suma")
 print(3*3, "Multiplicacion")
