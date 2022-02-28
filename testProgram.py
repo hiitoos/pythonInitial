@@ -6,6 +6,7 @@ a=3
 print(a)
 b=4
 print(a+b, "a+b")
-c = int(input("Introduce un numero: "))
+c = input("Introduce un numero: ")
 print(c)
-print(c+b, "c+b")
+cInt=int(c)+b #Pasamos a entero la variable c
+print(cInt, "c+b") 
