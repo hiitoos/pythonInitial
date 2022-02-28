@@ -14,4 +14,8 @@ print(cInt, "c+b")
 #Dividir crear floats
 print(10/5) 
 #Elevar a un exponente = 2³
-print(2**3)
+print(2**2)
+#Elevar a un 3rd exponent
+print(2**2**2)
+#Raiz cuadrada 
+print(4**(1/2))
