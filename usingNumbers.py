@@ -11,11 +11,11 @@ print(c)
 #Pasamos a entero la variable c
 cInt=int(c)+b 
 print(cInt, "c+b") 
-#Dividir crear floats
+#Dividir crea floats
 print(10/5) 
 #Elevar a un exponente = 2³
 print(2**2)
 #Elevar a un 3rd exponent
 print(2**2**2)
-#Raiz cuadrada 
+#Raiz cuadrada --> return float
 print(4**(1/2))
