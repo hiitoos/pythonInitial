@@ -16,3 +16,4 @@ print("""
     text
     literal
 """)
+print("hola"*2) #holahola
