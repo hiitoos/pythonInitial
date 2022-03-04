@@ -20,3 +20,5 @@ print("hola"*2) #holahola
 va3="h"
 va4=3
 print(va3*va4) #hhh
+del va4 #delete a variable
+#print (va4) #error
