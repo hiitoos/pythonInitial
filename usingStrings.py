@@ -8,3 +8,11 @@ print("Esto es el numero", varNum)
 print("El", varNum, "es primo", var2, "como lo ves?")
 #Escape char when single quote in string
 print('This is Drii\'s laptop')
+print("This is a \n jump line") # \n salto linea
+print("This is a \t tab line") # \t tabulacion
+print("This is the \r  carriage return symbol") # \r espacio retorno
+print("""
+    This is a multiline
+    text
+    literal
+""")
