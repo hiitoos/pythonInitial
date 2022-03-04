@@ -18,4 +18,8 @@ print(2**2)
 #Elevar a un 3rd exponent
 print(2**2**2)
 #Raiz cuadrada --> return float
-print(4**(1/2))
+print(4**(1/2)) 
+##Parte entera de una division (quotient)
+print(6//4)
+##Modulo de una division
+print(20%6)
