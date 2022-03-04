@@ -17,3 +17,6 @@ print("""
     literal
 """)
 print("hola"*2) #holahola
+va3="h"
+va4=3
+print(va3*va4) #hhh
