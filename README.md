@@ -1,4 +1,2 @@
-## Apuntes python
-## Entrada de datos
-- Texto -> input("Entrada de texto")
-- Numero -> int(input("Entrada de numeros") 
+# Python
+This a repository what have some tips and basic concepts about python
